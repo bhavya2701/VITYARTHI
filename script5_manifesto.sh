@@ -1,6 +1,6 @@
 #!/bin/bash
-# Author: Priyanka Priyadarshinee
-# Admission No: 24BCG10069
+# Author: BHAVYA JAIN
+# Admission No: 24BCY10263
 
 echo "=========================================="
 echo " Open Source Manifesto Generator"

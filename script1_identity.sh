@@ -1,8 +1,8 @@
 #!/bin/bash
-# Author: Priyanka Priyadarshinee
-# Admission No: 24BCG10069
+# Author: BHAVYA JAIN
+# Admission No: 24BCY10263
 
-STUDENT_NAME="Priyanka Priyadarshinee"
+STUDENT_NAME="BHAVYA JAIN"
 SOFTWARE_CHOICE="VLC Media Player"
 
 # Safer OS detection

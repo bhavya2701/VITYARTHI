@@ -3,8 +3,8 @@
 
 ## 👤 Student Details
 
-* **Name:** Priyanka Priyadarshinee
-* **Admission Number:** 24BCG10069
+* **Name:** BHAVYA JAIN 
+* **Admission Number:** 24BCY10263
 * **Slot:** A13
 
 ---
