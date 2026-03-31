@@ -5,7 +5,7 @@
 
 * **Name:** BHAVYA JAIN 
 * **Admission Number:** 24BCY10263
-* **Slot:** A13
+* **Slot:** E22
 
 ---
 
